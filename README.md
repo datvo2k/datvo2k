@@ -2,7 +2,13 @@
 
 I ❤️ DevopsSec!
 
-Hi, My name is Dat Vo. I am a Junior DevopsSec with 1 year experience. I want to learn and absorb new technologies. In my repos you'll find projects created using
+Hi, My name is Dat Vo.I am an enthusiast of cutting-edge technologies, particularly Cloud 
+Computing and Website Security. Furthermore, I enjoy learning, finding 
+the practical approach, and eventually mastering new technologies. I 
+also investigate website vulnerabilities as a pastime. As a DevOps with 
+1 year of experience, I am proficient at integrating CI/CD systems into 
+the work process between teams to shorten the product development 
+process and ensure product security.
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
