@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Brian Vo
 
-I ❤️ DevopsSec!
+I ❤️ DevSecOps!
 
 Hi, My name is Dat Vo.I am an enthusiast of cutting-edge technologies, particularly Cloud 
 Computing and Website Security. Furthermore, I enjoy learning, finding 
